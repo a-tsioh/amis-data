@@ -1,2 +1,9 @@
 *.json
 pic/
+dict-amis.sq3
+amis-cmn.dicts.txt
+DictionaryBuilder.jar
+amis-en.dicts.txt
+*.py[co]
+revdict-amis-*.txt
+amis-fey.csv

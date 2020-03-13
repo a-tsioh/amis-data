@@ -6,8 +6,6 @@ soft watery rice
 稀飯、粥、米乳、米湯
 => miki'a'am
 
-holo = 'a'am
-
 miki'a'm
 to professionally beg
 討飯、 乞討
@@ -36,6 +34,7 @@ sell
 mi'aca
 buy
 買、購
+=> micakay
 
 'acam
 dry stalks useable for firewood
@@ -47,12 +46,12 @@ dry stalks useable for firewood
 to dip out water
 汲水、 搖水
 
-'acfel
+'acefel
 smoke
 煙、蒸氣
-=> ci'acfelay
+=> ci'acefelay
 
-ci'acfelay
+ci'acefelay
 train
 火車，冒煙者
 
@@ -187,8 +186,6 @@ a species of tree * Soap Nut Tree
 無患子
 => rao'
 
-rao' = 'adimaceg
-
 'adipagpag
 tropical fish * generic term
 熱帶魚的總稱(鰈鶼)
@@ -240,8 +237,6 @@ tobacco juice
 遺留在煙斗吸管內的菸鹼(尼古丁) (Kwangfu 光復語)
 => cica'
 
-cica' = 'adteg
-
 'adtom
 a kind of grass
 草植類之一
@@ -255,10 +250,6 @@ the spirit a medium receives when possessed
 
 
 # p.25
-
-salo'afag
-human soul or spirit
-人類的魂或靈
 
 misalo'afag
 (witch doctor) breaths a spirit into a person
@@ -324,7 +315,7 @@ to taste burnt
 lukewarm
 微溫的，溫熱的，不冷不熱(不熱心的)
 
-'aftoy
+'afetoy
 calf of the leg
 小腿肚
 
@@ -397,8 +388,6 @@ high
 高
 => takaraw
 
-takaraw = 'akawag
-
 'akaway
 stem of a plant
 植物的莖
@@ -447,8 +436,6 @@ to stop * hinder
 阻止，遏止，妨礙，妨害，阻礙
 => sa'et
 
-sa'et = 'alet
-
 'ali
 brother or sister-in-law
 對兄弟姊妹之配偶之稱謂
@@ -456,20 +443,18 @@ brother or sister-in-law
 'alic
 a sparrow
 華南麻雀
+=> cirep
 a species of fish
 魚的一種
-=> cirep
-
-cirep = 'alic
 
 'alilis
 eagle * Serpent eagle
 大冠鷹
 
 'alimdas
-=> 'alogdas
 Pytas korros, a snake
 花草蛇
+=> 'alogdas
 
 'alip
 sexual intercourse * of humans
@@ -495,8 +480,6 @@ festering sores with a core
 
 'itkiw = 'aliwates
 
-kaliwates = 'aliwates
-
 'alo
 river * stream * creek
 河，溪澗，小溪
@@ -521,11 +504,11 @@ a bribe
 紅包，賄路，行賄之物
 
 'alogdas
-=> 'alimdas
 large harmless edible snake * Mock Viper (Achalinus niger Maki)
 無毒可食之蟒蛇
 (Calamaria pavimentata formosana)
 南蛇，標蛇
+=> 'alimdas
 
 
 # p.27
@@ -549,8 +532,6 @@ Red-Rumped swallow
 deep
 深的，深遠的
 => talolog
-
-talolog = 'alolog
 
 'aloman
 many * of people and animals only
@@ -578,8 +559,6 @@ edible snails from river or sea
 a smaller group belonging to a larger delegation of travelers walking
 成群結隊
 => tapakad
-
-tapakad = 'alpad
 
 'amis
 name of the Amis race
@@ -667,8 +646,6 @@ the name of a large frog
 俗稱田雞
 => opopay
 
-opopay = 'ap'ap
-
 'apac
 a trowel * a tool used by a carpenter to shave wood smooth
 鋤頭形削木刀
@@ -681,8 +658,6 @@ name of a village where many facidol grew
 花蓮縣壽豐鄉月眉部落之地名
 
 'apalo = 'apaloay
-
-facidol = 'apaloay
 
 'api
 twin
@@ -747,7 +722,7 @@ seen * visible
     Pa'arawen kami toya nitatoyan iso.
     Show us what you are holding.
     請你把手上的東西顯示給我們看
-    Pa'araw cigra to dmak nira.
+    Pa'araw cigra to demak nira.
     He revealed what he was doing.
     他顯露他的作為(行為)
     Masaso'araw kita anini.
@@ -794,7 +769,7 @@ a good kind of taste * delicious
 
 ka'so = 'ardet
 
-'ardo
+'aredo
 swamp grass * used in making things
 蓆草(生長在水邊植物)
 
@@ -816,8 +791,6 @@ a tall demon whose origin is in the trees * When he reveals himself to a person 
 corn
 玉米，玉蜀黍
 => padaka
-
-padaka = 'ariray
 
 'ariri
 granary * storeroom for grain of all kinds
@@ -841,7 +814,7 @@ a festival cape draped over the shoulders and covered with spangles
 'arsak
 to be dry from not having enough water in the mixture
 水分不足(乾燥)
-    Ma'arsak ko hmay.
+    Ma'arsak ko hemay.
     The rice is hard and under-cooked.
     白飯半生不熟
     Ma'arsak ko amoto.
@@ -857,8 +830,6 @@ dew
 a kernel of grain
 舂米或碾米時未脫殼之穀粒
 => safak
-
-safak = 'asad
 
 'asic = 'acis
 
@@ -981,8 +952,6 @@ earthquake
 地震
 => lonen
 
-lonen = 'atoray
-
 'atoto
 Caffre Lily * a shade flower (Clivia Miniata) Spider Lily
 君子蘭，水仙
@@ -1011,8 +980,6 @@ to step over
 flexible * easily bends
 易彎曲的
 => dawmi'
-
-dawmi' = 'awmig
 
 'ayam
 bird * birds
@@ -1090,7 +1057,7 @@ negative particle
     caay ka 'ca
     definitely
     一定
-    O nika'caan pidmak ko ga'ay.
+    O nika'caan pidemak ko ga'ay.
     It is best not to do it.
     最好不去做，不如不做。
 => caay
@@ -1113,17 +1080,17 @@ to be blinded by light
 to singe * burn hair or feathers
 毛髮被火燻焦
 
-'ciw
+'eciw
 a swishing sound
 颼(鞭，翅膀等的聲音)
-=> sapa'ciw, rocwi
+=> sapa'eciw, rocwi
 
-sapa'ciw
+sapa'eciw
 a goad for hitting
 靶
 => rocwi
 
-rocwi = sapa'ciw
+rocwi = sapa'eciw
 
 'co
 an elephant (with light glottal sound)
@@ -1134,19 +1101,19 @@ to advance taking for oneself with the advance
     The bamboo crowds out fruit trees that were planted.
     果樹被竹林擠掉
 
-'daw
+'edaw
 to fortune tell
 卜卦，算命，祭祀用之木具
-=> pa'daw, mi'daw
+=> pa'edaw, mi'edaw
 
-pa'daw
+pa'edaw
 to call a fortune teller
 請人問卜，請人算命
 
 
 # p.33
 
-mi'daw
+mi'edaw
 to tell a fortune
 問卜，卜卦，占卜
 to give the reason for a problem
@@ -1155,38 +1122,39 @@ the activity of a medium
 巫師的活動
 
 'def
-/ldef - to spread out over the whole area
+to spread out over the whole area
 撒佈整個區域
-to close (heavy glottal stop) 關閉
+to close (heavy glottal stop) 
+關閉
     mi'def to loma'
     to close the house up
     關閉門戶
     Mi'def ko simal to riyar.
     The ocean has a large oil slick.
     浮油佈滿海面
-=> sa'def
+=> ledef, sa'edef
 
-sa'def
+sa'edef
 a door
 扇門
 
-'deg
+edeg
 only
 唯，只有，僅僅，獨一
-=> ma'deg, 'degan, dgan, pa'deg
+=> maedeg, edegan, degan, paedeg
 
-ma'deg
+maedeg
 can be done
 足夠，能力足夠完成
 
-'degan
+edegan
 only
 僅僅，唯一
-=> dgan
+=> degan
 
-dgan = 'degan
+degan = edegan
 
-pa'deg
+paedeg
 to do only so much * not overdo * including the idea of being content with what you have
 僅做範圍內或限制內的工作或責任
 
@@ -1194,22 +1162,22 @@ to do only so much * not overdo * including the idea of being content with what 
 cruel
 嚴厲，殘酷，兇悍
 
-'dil
+'edil
 glory * radiance
 光亮，閃耀
-=> ma'dilay, ci'dilay
+=> ma'edilay, ci'edilay
 
-ma'dilay
+ma'edilay
 shiny
 閃亮的
-=> 'dil
+=> 'edil
 
-ci'dilay
+ci'edilay
 something that is radiant * glorious
 發亮的，榮耀的
-=> 'dil
+=> 'edil
 
-'do
+'edo
 rat
 老鼠
 
@@ -1218,9 +1186,9 @@ a pair of arm coverings attached together
 套袖(手臂套)筒袖
 
 'dox
-=> 'dok
 a plant called Rose Mallow * (Urena lobata) with berries
 種子
+=> 'dok
 
 'em'em
 to keep to oneself worry or trouble
@@ -1264,29 +1232,29 @@ to forbid * not allow (light glottal sound)
 to throw away
 拋棄，丟棄
 
-'fer
+efer
 to jump from one place to land at another * to leap
 從此地飛到彼岸，飛躍，跳躍
-=> mi'fer, ma'fer
+=> miefer, maefer
 
-ma'fer
+maefer
 to fly
 飛
-=> 'fer
+=> efer
 
 'fo
 overwhelmed by work * unable to handle something
 無法勝任，不能勝任，嫌工作或任務太多或太大
 stigma from moral failure
-=> 'ilo
 道德上的污點，犯法事件
+=> 'ilo
 just dessert
 點心
 
 'fog
 name of an Amis village
 阿美族部落名之略稱，瑞源村落名
-from sahfog * to have a gully
+from sahefong * to have a gully
 窪地，深溝，峽谷
 
 'ged
@@ -1301,7 +1269,6 @@ to be wormy and rotten
     這是一棵不健康的樹，這是一棵被蛀壞的樹
 
 'giw
-=> adeses
 the sound of a living thing
 指有生命物的聲音
     Awaay ko 'giw.
@@ -1310,6 +1277,7 @@ the sound of a living thing
     ma'giw ko giha'
     high pitch of the voice
     聲音高而尖銳
+=> adeses
 
 'i
 an untranslatable particle at the end of a dependent clause * as for that with a description or explanation following
@@ -1359,8 +1327,8 @@ to get a bruise the size of a betel nut
 搗碎定量的檳榔果
 
 'id'id
-烤，烘烤，烘倍
 roasted * to roast * to barbecue
+烤，烘烤，烘倍
 => dohdoh
 
 'idepet
@@ -1404,7 +1372,7 @@ to spin a top * a top
 'ikay
 lump shaped object
 成塊狀
-    masa'ika'ikayay a so'da
+    masa'ika'ikayay a so^da
     hail
     成塊的雪花，雹，霰
 
@@ -1441,7 +1409,7 @@ to cut and sharpen the end of a piece of wood like a pencil
 
 # p.36
 
-'imced
+'imeced
 to be firm * of flesh including muscle or fruit like banana
 結實，堅固
 
@@ -1461,7 +1429,7 @@ to not waste
     ma'imer to riko'
     well groomed
     衣著整齊，愛惜衣物
-    Misa'imer ko Farisay a tamdaw to dmak ni Yis.
+    Misa'imer ko Farisay a tamdaw to demak ni Yis.
     The Pharisees watched (to find something wrong with) what Jesus did.
     法利賽人注目耶穌的行動
 => ma'imer, misa'imer
@@ -1509,9 +1477,9 @@ pyramid shaped * skinny at the top and wide at the bottom or wide at the top and
 由大而小，式微，金字塔形，由粗而尖
 
 'irig
-=> pawig
 to have head bent to the side * as when a baby is asleep
 側頭
+=> pawig
 
 'is'is
 to shave * referring to beard or hair
@@ -1617,37 +1585,31 @@ sa'iyot
 a knife for cutting
 鑽子
 
-'kak
+'ekak
 to curse
 咒詛 ，休克
-=> ma'kak
+=> ma'ekak
 
-ma'kak
+ma'ekak
 to be dried
 即將枯乾
 about to die
 休克，臨終，即將斷氣
 
-'ked
+eked
 separate * form clique
 分離，組成派系，私黨
-=> misa'ked
+=> misaeked
 
-misa'ked
+misaeked
 to form cliques
 另起爐灶，另組黨派或派系
-=> 'ked
+=> eked
 
-'kim
+ekim
 silver
 銀
-=> tada'kim
-
-tada'kim
-gold
-黃金
-=> 'kim
-
+=> tadaekim
 
 # p.38
 
@@ -1660,10 +1622,10 @@ black as the burn on a pan or soot
 'li'
 a bundle of one hundred stems of grass, one hundred
 一百枝一束的茅草
-    ccay no 'li'
+    cecay no 'li'
     one hundred
     一百
-    ccay a 'li'an
+    cecay a 'li'an
     one hundred
     一百
 grass used to root a house
@@ -1676,7 +1638,7 @@ condition of being spoiled * not disciplined * of a child
 'loc
 to wear * to be worn away
 磨損
-    Ma'loc no nanom ko fokloh.
+    Ma'loc no nanom ko fokeloh.
     The rocks are worn by the water.
     石頭被水磨滑(平)了
 
@@ -1684,7 +1646,7 @@ to wear * to be worn away
 moo * the sound of a cow
 黃牛的叫聲
 
-'mamosa
+'emamosa
 the pupil of the eye
 瞳孔
 
@@ -1703,32 +1665,27 @@ to sink to the bottom in water
 to hold back * control self
 控制，抑制
 
-'mi
+emi
 wheat
-大麥
-=> 'did, kato'mi, tada'mi
+小麥
+=> 'did, katoemi, tadaemi
 
-'did = 'mi
+'did = emi
 
-kato'mi
+katoemi
 barley
-小麥
-=> 'mi
+大麥
+=> emi, kaloemi
 
-tada'mi
-wheat
-小麥
-=> 'mi
-
-'mic
+'emic
 pinch * grab hold of
 捏，捏住
-=> sa'mic
+=> sa'emic
 
-sa'mic
+sa'emic
 tweezers
 鋏子
-=> 'mic
+=> 'emic
 
 'min
 complete * all * every one included
@@ -1739,7 +1696,7 @@ complete * all * every one included
     Tayra kita a ma'min.
     All of us will go.
     我們全部都要去
-    Pa'min han cigra a pafli.
+    Pa'min han cigra a pafeli.
     Give it all to him.
     全部給他
 
@@ -1788,15 +1745,15 @@ to swallow
     can be swallowed
     可以吞下去
 
-'nor
+'enor
 anchor of a ship or boat
 錨
-=> 'enor, tnol, pa'nor
+=> 'enor, tnol, pa'enor
 
-pa'nor
+pa'enor
 to cast anchor
 拋錨
-=> 'nor
+=> 'enor
 
 'o'ol
 fog
@@ -1947,11 +1904,12 @@ someone who has poetic gifts
 => 'olic
 
 'olid
-/holol. to visit around
+to visit around
 拜訪，造訪
     pa'oliday / ma'oliday a fo'is
     a shooting star from a comet
     流星
+=> holol
 to look for a mate * to date
 約會，談戀愛
 
@@ -1988,11 +1946,7 @@ a bamboo carrying pole
 'opic
 to wet * make wet * as from rain
 濕，弄濕
-=> sger, cpa'
-
-sger = 'opic
-
-cpa' = 'opic
+=> seger, cepa'
 
 'opir
 a braid of hair or of rope
@@ -2069,12 +2023,12 @@ masaya = 'oriyat
 'orog
 to carry on the shoulder
 扛肩
-    Ma'orog nira ko kartegay a 'inorog.
+    Ma'orog nira ko karetegay a 'inorog.
     He carried a heavy load.
     他挑起了沉重的擔子，他運走(扛在肩上)了很沉重的荷物
-=> a'orogen
+=> 'a'orogen
 
-a'orogen
+'a'orogen
 something to be carried
 荷物，包袱，即將運走的東西
 => 'orog
@@ -2096,7 +2050,7 @@ left behind
 'osget
 an expression of anger
 皺眉頭表示生氣
-=> gotfol
+=> gotefol
 
 'osi
 to strongly dislike * reject
@@ -2110,7 +2064,7 @@ to strongly dislike * reject
     O 'osi a tamdaw cigra.
     He is true.
     他是正直的人，他是了不起的人物
-    Ka'osian ko dmak nira.
+    Ka'osian ko demak nira.
     What he does is despicable.
     他的作為令人討厭
 
@@ -2184,18 +2138,18 @@ the activity of making reeds out of the plant
 把藤切片狀
 => 'oway
 
-'pag
+epag
 bread (from Japanese)
 麵包 (引自日語)
 
-'pah
+epah
 wine * intoxicating drink
 酒，酒精製品飲料
 
 'pec
 to despise * look down upon * consider of little value
 瞧不起，奚落，輕視，輕蔑
-=> spen
+=> sepen
 
 'pel
 biting gnats found in Hualien county
@@ -2222,13 +2176,13 @@ a flute
 笛子，橫笛
 => tipolo
 
-'poc
+epoc
 use * value
 用處，價值
-    ci'pocay
+    ciepocay
     has value
     有用，有價值
-    awaay ko 'poc
+    awaay ko epoc
     no use
     沒有用，沒有價值
 => kapo
@@ -2254,8 +2208,6 @@ something used as adornment as jewelry or home decorations
 裝飾品
 => 'iray
 
-'iray = 'res
-
 'ric
 wire
 鋼絲
@@ -2277,16 +2229,16 @@ the Pacific current
 'sam
 attitude of being tired of looking at something
 不耐煩，因疲倦而厭煩的態度
-    Ma'samento kako.
+    Ma'samen to kako.
     I am upset / disturbed (by a situation).
     我已經提不起興趣了
 
 'ses
 to the point * direct
 指出，指導
-Awaay ko paka'esesay a somowal cigraan.
-No one is able to speak pointedly to him.
-沒有一個人敢當面指責他
+    Awaay ko paka'esesay a somowal cigraan.
+    No one is able to speak pointedly to him.
+    沒有一個人敢當面指責他
 => 'eses
 
 'eses = 'ses
@@ -2300,29 +2252,29 @@ chaff
 粗糠
 => afih
 
-'tan
+etan
 profit * earnings from work
 利益，利潤
-=> mili'tan
+=> milietan
 
-mili'tan
+milietan
 to make profit (from Amoy dialect)
 賺錢 (引自閩南語)
-=> 'tan
+=> etan
 
-'teg
+'eteg
 dam used to stop water so it goes in another direction
 築堤使水改道
-=> pi'tegan
+=> pi'etegan
 road block marking a detour
 柵路改道
 floats on a net
 漁網之浮標
 
-pi'tegan
+pi'etegan
 place where dam is placed for fishing
 涸魚之堤堰
-=> 'teg
+=> 'eteg
 
 'tip
 west

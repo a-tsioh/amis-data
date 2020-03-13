@@ -4,26 +4,29 @@
 import sys
 
 JSON = {}
-INDEX = []
 
 def ng(s):
     return s.strip().replace('g', 'ng')
+    #return s.strip()
 
 def ngtilde(s):
     import re
-    return re.sub(r'([\w\']+)', r'`\1~', ng(s))
+    from amis_stemmer import gnostic
+    w1 = re.split(r"([\w:']+)", s.strip())
+    w2 = map(gnostic, w1)
+    return ng(''.join(w2))
+    #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
 
 def addsplt(s):
     return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
 
 def mkword(title, definitions):
-    global JSON, INDEX
+    global JSON
     word = {'title': title,
         'heteronyms': [{'definitions': definitions}]}
     if title in JSON:
         print "Duplicated definition: " + title
     JSON[title] = word
-    INDEX.append(title)
 
 def mkdef(defi, examples, link):
     defdic = {}
@@ -33,7 +36,7 @@ def mkdef(defi, examples, link):
     if defi[2] != '':
         defdic['def'] = addsplt(defi)
     if link:
-        defdic['link'] = map(ngtilde, link.split(','))
+        defdic['synonyms'] = map(ngtilde, link.split(','))
     return defdic
 
 def readdict(fn):
@@ -117,16 +120,12 @@ def readdict(fn):
     print 'Total %d words in %s' % (num_words, fn)
 
 if __name__ == '__main__':
-    import os
+    import glob
     import json
     import re
     import codecs
-    for fn in os.listdir('.'):
-        if re.match(r'^[0a-z]\.txt$', fn):
-            readdict(fn)
-    f = codecs.open('index.json', mode='w', encoding='utf8')
-    f.write(json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False))
-    f.close()
+    for fn in glob.iglob('?.txt'):
+        readdict(fn)
     f = codecs.open('dict-amis.json', mode='w', encoding='utf8')
     f.write(json.dumps(JSON.values(), indent=2, separators=(',', ':'), ensure_ascii = False))
     f.close()

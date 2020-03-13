@@ -3,6 +3,8 @@ amis-data
 
 Data from Virginia Fey's Amis Dictionary
 
+請注意! 本 repo 僅供參考，字典的後續維護，請改用 https://docs.google.com/spreadsheets/d/1S5Q0_L_1oj-iuQbHug7IW5U9wRypA4uuBGOOFrABvdU/edit?usp=sharing
+
 
 編輯說明
 ========
@@ -51,44 +53,23 @@ market
 ----
 
 請保留原有的拼法，如 negneg 請不要寫成 nengneng, 轉換格式的時候，我們會用程式轉成現在比較通用的形式。
-
-誠徵義工
-========
-
-感謝 @audreyt 幫忙 OCR, 如果願意幫忙校對/轉換格式，請到 [阿美族字典OCR](https://www.moedict.tw/tmp/amis/) 下載。
-
-如果你有 Github 帳號: 請寄站內信給 @miaoski, 以便打開 commit 權限，謝謝！
-
-如果沒有 Github 帳號: 請寄信給 lin.zhemin at gmail.com 謝謝。一次請認領一個字母。
-
-| 字首 | 認領人 | 完成日     |
-|------|--------|------------|
-| '    | miaoski| 2014-08-30 |
-| a    | 待認領 |            |
-| c    | 待認領 |            |
-| d    | 待認領 |            |
-| f    | 待認領 |            |
-| g    | 待認領 |            |
-| h    | 待認領 |            |
-| i    | 待認領 |            |
-| k    | 待認領 |            |
-| l    | 待認領 |            |
-| m    | 待認領 |            |
-| n    | 待認領 |            |
-| o    | 待認領 |            |
-| p    | 待認領 |            |
-| r    | 待認領 |            |
-| s    | 待認領 |            |
-| t    | 待認領 |            |
-| w    | 待認領 |            |
-| y    | 待認領 |            |
+* 在 before-namoh TAG 前的 commit 是天主教式的拼法。
+* 在 ramoh-fixed TAG 之後的 commit 是吳明義老師修正過後的拼法。
 
 
 轉換
 ====
 
-請用 `python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
-之後預定會寫轉換成 WeSay 或其它格式的程式。
+萌典
+----
+請用 `python makeindex.py && python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
+
+
+QuickDic
+--------
+Android 上的好用字典軟體 QuickDic. 請在 [quickdic-dictionary] (https://code.google.com/p/quickdic-dictionary/wiki/BuildDictionary) 下載 DictionaryBuilder.jar 後， `make quickdic` 即可。
+
+預先轉換好的詞典檔，檔名叫 AMIS-CMN.quickdic 及 AMIS-EN.quickdic 也可以直接下載後，上傳到手機的 `/SDCard/quickdic` 目錄使用。
 
 
 切豆腐
@@ -103,5 +84,7 @@ License
 =======
 
 謹感謝 [台灣聖經公會](http://www.biblesociety-tw.org/) 授權電子化。商業使用之授權，請洽[台灣聖經公會]。
+
+感謝吳明義老師將天主教的舊式拼法，改寫成原民會版本的新式拼法。
 
 This work is licensed under the Creative Commons 姓名標示-非商業性 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/deed.zh_TW.
